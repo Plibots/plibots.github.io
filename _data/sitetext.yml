@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Llevando a tu empresa a la nueva era
     text: Plibots
-    button: Empezemos
+    button: Empecemos
     buttonlink: "#services"
 
   services:
