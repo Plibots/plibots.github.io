@@ -50,17 +50,14 @@ en: &DEFAULT_EN
       - title: "Manejo y recolección de datos"
         year: "Fase 1:"
         desc: "Identificamos las mejores prácticas para manejar datos y generamos soluciones para digitalizar la información."
-        image: assets/img/timeline/F1.png
         alt:
       - title: "Inteligencia de negocio y análisis de datos"
         year: "Fase 2:"
         desc: "Utilizamos herramientas de inteligencia de negocio para que los lideres puedan investigar sus procesos a partir de datos."
-        image: assets/img/timeline/F2.png
         alt:
       - title: "Aplicaciones avanzadas"
         year: "Fase 3:"
         desc: "Utilizamos inteligencia artificial para optimizar procesos de las organizaciones y permitir que las maquinas apoyen la labor de HSE."
-        image: assets/img/timeline/F3.png
         alt: image alt text
         # you can enforce the alignment
         align: right
