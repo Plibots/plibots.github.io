@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: App de exámenes ocupacionales
+subtitle: App personalizada
+image: assets/img/portfolio/P3.png
+alt: App de exámenes ocupacionales
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: App de exámenes ocupacionales
+  subtitle: App personalizada
+  thumbnail: assets/img/portfolio/P3.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+Herramientas personalizadas para hacer seguimiento a los exámenes ocupacionales y garantizar que los empleados estén siempre saludables
 
