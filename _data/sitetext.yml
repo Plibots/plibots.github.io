@@ -51,16 +51,16 @@ en: &DEFAULT_EN
     list:
       - title: "Canacol"
         url: https://canacolenergy.com/es
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/cncLogo.png
       - title: "Nabors"
         url: https://www.nabors.com
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/nabors-logo-F09E3FEBB9-seeklogo.com.png
       - title: "Seryal"
         url: https://www.seryalsas.com/
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/SeryLogo.png
       - title: "Colmena"
         url: https://www.fundaciongruposocial.co
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/colmena logo.png
 
  
 
