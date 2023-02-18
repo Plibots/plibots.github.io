@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
-alt: 
+title: Modelo de IA para identificar uso de EPP
+subtitle: App personalizada + RPA + IA
+image: assets/img/portfolio/P5_1.png
+alt: Modelo de IA para identificar uso de EPP
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Modelo de IA para identificar uso de EPP 
+  subtitle: App personalizada + RPA + IA
+  thumbnail: assets/img/portfolio/P5.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+Modelos de inteligencia artificial para garantizar correcto uso de EPP y asegurar que los empleados estén protegidos
