@@ -11,20 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Servicios"
       section: services
-    - title: "Portfolio"
+    - title: "Casos de uso"
       section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
+    - title: "Contacto"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -39,19 +32,12 @@ en-AU:
 es: &DEFAULT_ES
   nav:
     - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      section: services
+    - title: "Casos de uso"
+      section: portfolio
+    - title: "Contacto"
+      section: contact
+    
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
