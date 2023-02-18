@@ -93,7 +93,7 @@ en: &DEFAULT_EN
     
   contact:
     title: "Contáctanos"
-    text: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+    text: "clientservices@plibots.com"
     section: contact
     name: "Nombre*"
     name-validation: "Ingrese su nombre"
