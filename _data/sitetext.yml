@@ -86,24 +86,26 @@ en: &DEFAULT_EN
         logo: assets/img/clients/colmena logo.png
 
   about:
-    title: "Ubicación"
+    title: "Nuestra Mision"
     text: ""
-    body: "Cra 7 # 155C - 30"
+    body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos"
     section: about
     
   contact:
     title: "Contáctanos"
     text: "clientservices@plibots.com"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Nombre*"
+    name-validation: "Ingrese su nombre"
+    company: "Empresa"
+    company-validation: "Ingrese el nombre de su empresa"
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    email-validation: "Ingrese su dirección de correo"
+    phone: "Celular"
+    phone-validation: "Ingrese su celular"
+    message: "Mensaje*"
+    message-validation: "Ingrese un mensaje"
+    subject: "ContactoDesdeWeb"
     submit: "Enviar"
 
   footer:
