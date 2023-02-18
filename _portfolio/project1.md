@@ -1,18 +1,14 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Control de vehículos
+subtitle: App personalizada
+image: assets/img/portfolio/Diapositiva1.png
+alt: App personalizada
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/P1.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Herramientas para controlar el estado de los vehículos y cuidar a los empleados, equipos y herramientas en las vías
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
 
