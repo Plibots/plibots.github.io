@@ -63,11 +63,7 @@ en: &DEFAULT_EN
     end: ""
 
 
-  about:
-    title: "Nuestro objetivo"
-    text: "PB"
-    body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos"
-    section: about
+  
     
     
   clients:
@@ -89,12 +85,15 @@ en: &DEFAULT_EN
         url: https://www.fundaciongruposocial.co
         logo: assets/img/clients/colmena logo.png
 
- 
-
+  about:
+    title: "Ubicación"
+    text: ""
+    body: "Cra 7 # 155C - 30"
+    section: about
+    
   contact:
     title: "Contáctanos"
     text: "clientservices@plibots.com"
-    text: "Cra 7 # 155C - 30"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
