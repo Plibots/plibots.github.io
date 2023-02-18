@@ -45,6 +45,7 @@ en: &DEFAULT_EN
     section: about
     
   clients:
+    title: "Nuestros clientes"
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
