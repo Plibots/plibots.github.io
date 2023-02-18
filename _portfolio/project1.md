@@ -1,7 +1,7 @@
 ---
 title: Control de vehículos
 subtitle: App personalizada
-image: assets/img/portfolio/Diapositiva1.png
+image: assets/img/portfolio/P1.png
 alt: App personalizada
 
 caption:
