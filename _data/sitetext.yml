@@ -94,6 +94,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contáctanos"
     text: "clientservices@plibots.com"
+    text: "Cra 7 # 155C - 30"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -104,7 +105,7 @@ en: &DEFAULT_EN
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Enviar"
 
   footer:
     legal: "Privacy Policy"
