@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
-alt: 
+title: Talleres y cursos
+subtitle: Cursos personalizados
+image: assets/img/portfolio/P6_1.png
+alt: Talleres y cursos
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Talleres y cursos
+  subtitle: Cursos personalizados
+  thumbnail: assets/img/portfolio/P6.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+Enseñamos a los empleados a usar las herramientas y prácticas mas relevantes para optimizar su trabajo y crear valor a partir de datos 
