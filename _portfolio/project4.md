@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
-alt: 
+title: MEDEVACS Inteligentes 
+subtitle: App personalizada + RPA
+image: assets/img/portfolio/P4.png
+alt: MEDEVACS Inteligentes 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: MEDEVACS Inteligentes 
+  subtitle: App personalizada + RPA
+  thumbnail: assets/img/portfolio/P4_b.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+Es esencial responder a emergencias con información actualizada y de manera rápida, por esto ayudamos a nuestros clientes a potenciar sus MEDEVACs con herramientas tecnológicas
