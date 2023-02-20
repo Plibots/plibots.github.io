@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Llevando a tu empresa a la nueva era
+    title: Acompañándote en tu camino de digitalización
     text: Plibots
     button: Empecemos
     buttonlink: "#services"
