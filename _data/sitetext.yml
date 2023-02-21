@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Creamos chatbots, automatización de procesos mediante RPA, modelos de inteligencia artifical para detección de objetos y situaciones, entre otros"
         icon: fas fa-robot
       - title: "Cursos, talleres y análisis de datos"
-        desc: "Talleres, cursos y material de entrenamiento personalziado sobre uso de herramientas y mejores prácticas"
+        desc: "Talleres, cursos y material de entrenamiento personalizado sobre uso de herramientas y mejores prácticas"
         icon: fas fa-book
 
   portfolio:
@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         desc: "Utilizamos inteligencia artificial para optimizar procesos de las organizaciones y permitir que las maquinas apoyen la labor de HSE."
         alt: 
  
-    end: ""
+    #end: ""
 
 
   
