@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Aplicaciones avanzadas"
         year: "Fase 3:"
-        desc: "Utilizamos inteligencia artificial para optimizar procesos de las organizaciones y permitir que las aumenten la eficiencia de las tareas del día a día"
+        desc: "Utilizamos inteligencia artificial y otras herramientas para optimizar procesos de las organizaciones y permitir que las aumenten la eficiencia de las tareas del día a día"
         alt: 
  
     end: "            Mundo digital"
