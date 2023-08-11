@@ -78,12 +78,19 @@ en: &DEFAULT_EN
       - title: "Nabors"
         url: https://www.nabors.com
         logo: assets/img/clients/nabors-logo-F09E3FEBB9-seeklogo.com.png
+      - title: "Syngenta"
+        url: https://www.syngenta.com
+        logo: assets/img/clients/syngenta-logo-black-and-white.png
+      - title: "Hocol"
+        url: https://www.hocol.com.co
+        logo: assets/img/clients/hocol-logo-modified.gif
       - title: "Seryal"
         url: https://www.seryalsas.com/
         logo: assets/img/clients/SeryLogo.png
       - title: "Colmena"
         url: https://www.fundaciongruposocial.co
         logo: assets/img/clients/colmena logo.png
+ 
 
   about:
     title: "Nuestra Mision"
