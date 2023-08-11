@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         desc: "Utilizamos inteligencia artificial y otras herramientas para optimizar procesos de las organizaciones y permitir que las aumenten la eficiencia de las tareas del día a día"
         alt: 
  
-    end: "            Mundo digital"
+    end: "           "
 
 
   
@@ -69,8 +69,8 @@ en: &DEFAULT_EN
   clients:
     title: "Nuestros clientes"
     section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    max-height: 90px
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Canacol"
         url: https://canacolenergy.com/es
