@@ -60,12 +60,13 @@ en: &DEFAULT_EN
         desc: "Utilizamos inteligencia artificial y otras herramientas para optimizar procesos de las organizaciones y permitir que las aumenten la eficiencia de las tareas del día a día"
         alt: 
  
-    end: "           "
+    end: ""
 
 
   
   clients:
     title: "Nuestros clientes"
+    text: "Hemos apoyado clientes de distintos sectores y con diferentes necesidades"
     section: clients
     max-height: 90px
     horizontal-scrolling: "yes" #"yes/no"
