@@ -18,6 +18,126 @@ en: &DEFAULT_EN
 
   services:
     title: "Servicios"
+    text: ""
+    section: services
+    list:
+      - title: "Desarrollo de aplicaciones y dashboards"
+        desc: "Aplicaciones personalizadas para recolectar, editar y transformar información y dashboards para poder analizar datos de tus procesos"
+        icon: fas fa-laptop
+      - title: "Inteligencia artificial y automatización"
+        desc: "Creamos chatbots, automatización de procesos mediante RPA, modelos de inteligencia artifical para detección de objetos y situaciones, entre otros"
+        icon: fas fa-robot
+      - title: "Cursos, talleres y análisis de datos"
+        desc: "Talleres, cursos y material de entrenamiento personalizado sobre uso de herramientas y mejores prácticas"
+        icon: fas fa-book
+
+  portfolio:
+    title: "Casos de uso"
+    text: "Proyectos para todo tipo de situaciones"
+    section: portfolio
+    closebutton: "Cerrar"
+
+
+  
+    
+  timeline:
+    title: "Flujo de digitalización"
+    text: "Trabajemos juntos para que tu operación sea digital, optimizada por IA y guiada por datos"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Manejo y recolección de datos"
+        year: "Fase 1:"
+        desc: "Identificamos las mejores prácticas para manejar datos y generamos soluciones para digitalizar la información."
+        alt:
+      - title: "Inteligencia de negocio y análisis de datos"
+        year: "Fase 2:"
+        desc: "Utilizamos herramientas de inteligencia de negocio para que los lideres puedan investigar sus procesos a partir de datos."
+        alt:
+      - title: "Aplicaciones avanzadas"
+        year: "Fase 3:"
+        desc: "Utilizamos inteligencia artificial y otras herramientas para optimizar procesos de las organizaciones y permitir que las aumenten la eficiencia de las tareas del día a día"
+        alt: 
+ 
+    end: "           "
+
+
+  
+    
+    
+  clients:
+    title: "Nuestros clientes"
+    section: clients
+    max-height: 90px
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
+      - title: "Canacol"
+        url: https://canacolenergy.com/es
+        logo: assets/img/clients/cncLogo.png
+      - title: "Nabors"
+        url: https://www.nabors.com
+        logo: assets/img/clients/nabors-logo-F09E3FEBB9-seeklogo.com.png
+      - title: "Syngenta"
+        url: https://www.syngenta.com
+        logo: assets/img/clients/syngenta-logo-black-and-white.png
+      - title: "Hocol"
+        url: https://www.hocol.com.co
+        logo: assets/img/clients/hocol-logo-modified.gif
+      - title: "Seryal"
+        url: https://www.seryalsas.com/
+        logo: assets/img/clients/SeryLogo.png
+      - title: "Colmena"
+        url: https://www.fundaciongruposocial.co
+        logo: assets/img/clients/colmena logo.png
+ 
+
+  about:
+    title: "Nuestra Misión"
+    text: ""
+    body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos"
+    section: about
+    
+  contact:
+    title: "Contáctanos"
+    text: <a href="mailto:clientservices@plibots.com">{{ site.email }}</a>
+    section: contact
+    name: "Nombre*"
+    name-validation: "Ingrese su nombre"
+    company: "Empresa"
+    company-validation: "Ingrese el nombre de su empresa"
+    email: "Email*"
+    email-validation: "Ingrese su dirección de correo"
+    phone: "Celular"
+    phone-validation: "Ingrese su celular"
+    message: "Mensaje*"
+    message-validation: "Ingrese un mensaje"
+    subject: "ContactoDesdeWeb"
+    submit: "Enviar"
+
+  footer:
+    legal: "Política de privacidad"
+    
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  header:
+    title: Acompañándote en tu camino de digitalización
+    text: Plibots
+    button: Empecemos
+    buttonlink: "#services"
+
+  services:
+    title: "Servicios"
     text: "Acompañamos a nuestros clientes en todas las fases del camino hacia una era digital"
     section: services
     list:
@@ -100,7 +220,7 @@ en: &DEFAULT_EN
     
   contact:
     title: "Contáctanos"
-    text: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    text: <a href="mailto:clientservices@plibots.com">{{ site.email }}</a>
     section: contact
     name: "Nombre*"
     name-validation: "Ingrese su nombre"
@@ -116,96 +236,7 @@ en: &DEFAULT_EN
     submit: "Enviar"
 
   footer:
-    legal: "Privacy Policy"
-    
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
-
-  services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
-    list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
-
-
-
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-
-  contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
-
-  footer:
-    legal: "Política de Privacidad"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+    legal: "Política de privacidad"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
