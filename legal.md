@@ -23,11 +23,11 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-No recolectamos ningun daato, exepto la infromación voluntarimente compartida a través del formulari de contacto
+No recolectamos ningún dato, exepto la infromación voluntariamente compartida a través del formulario de contacto
 
 {% endif %}
 
 
-**CONTACTo**
+**Contacto**
 
 Para más información puede contactar a <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
