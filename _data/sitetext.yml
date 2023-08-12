@@ -64,8 +64,6 @@ en: &DEFAULT_EN
 
 
   
-    
-    
   clients:
     title: "Nuestros clientes"
     section: clients
