@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     
   contact:
     title: "Contáctanos"
-    text: <a href="mailto:clientservices@plibots.com" style="color: white;">clientservices@plibots.com</a>
+    text: <a href="mailto:clientservices@plibots.com">clientservices@plibots.com</a>
     section: contact
     name: "Nombre*"
     name-validation: "Ingrese su nombre"
@@ -220,7 +220,7 @@ es: &DEFAULT_ES
     
   contact:
     title: "Contáctanos"
-    text: <a href="mailto:clientservices@plibots.com" style="color: white;">clientservices@plibots.com</a>
+    text: <a href="mailto:clientservices@plibots.com">clientservices@plibots.com</a>
     section: contact
     name: "Nombre*"
     name-validation: "Ingrese su nombre"
