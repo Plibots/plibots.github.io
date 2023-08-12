@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Acompañándote en tu camino de digitalización
+    title: 
     text: Plibots
     button: Empecemos
     buttonlink: "#services"
@@ -131,7 +131,7 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: Acompañándote en tu camino de digitalización
+    title: 
     text: Plibots
     button: Empecemos
     buttonlink: "#services"
