@@ -18,9 +18,12 @@ en: &DEFAULT_EN
 
   services:
     title: "Servicios"
-    text: ""
+    text: "Servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
     section: services
     list:
+      - title: "Aplicaciones personalizadas"
+        desc: "Desarrollo de plataformas y consultoría d"
+        icon: fas fa-laptop
       - title: "Desarrollo de aplicaciones y dashboards"
         desc: "Aplicaciones personalizadas para recolectar, editar y transformar información y dashboards para poder analizar datos de tus procesos"
         icon: fas fa-laptop
