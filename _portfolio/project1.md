@@ -9,6 +9,6 @@ caption:
   subtitle: App personalizada
   thumbnail: assets/img/portfolio/P1.png
 ---
-Herramientas para controlar el estado de los vehículos y cuidar a los empleados, equipos y herramientas en las vías
+Herramientas para la gestión de capacitaciones 
 
 
