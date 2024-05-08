@@ -95,10 +95,10 @@ en: &DEFAULT_EN
       - title: "Hocol"
         url: https://www.hocol.com.co
         logo: assets/img/clients/C5.png
-       - title: "Geopark"
+      - title: "Geopark"
         url: https://www.geo-park.com/es/
         logo: assets/img/clients/C6.png       
-       - title: "Seryal"
+      - title: "Seryal"
         url: https://www.seryalsas.com/
         logo: assets/img/clients/C8.png
 
@@ -216,10 +216,10 @@ es: &DEFAULT_ES
       - title: "Hocol"
         url: https://www.hocol.com.co
         logo: assets/img/clients/C5.png
-       - title: "Geopark"
+      - title: "Geopark"
         url: https://www.geo-park.com/es/
         logo: assets/img/clients/C6.png       
-       - title: "Seryal"
+      - title: "Seryal"
         url: https://www.seryalsas.com/
         logo: assets/img/clients/C8.png
 
