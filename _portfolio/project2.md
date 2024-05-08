@@ -1,12 +1,13 @@
 ---
-title: Hallazgos
+title: App de exámenes ocupacionales
 subtitle: App personalizada
-image: assets/img/portfolio/P2.png
-alt: App de Hallazgos
+image: assets/img/portfolio/P3.png
+alt: App de exámenes ocupacionales
 
 caption:
-  title: App de Cursos HS
+  title: App de exámenes ocupacionales
   subtitle: App personalizada
-  thumbnail: assets/img/2. Hallazgos.jpg
-Aplicaciones para registrar, validar y verificar el estado de cursos, para garantizar que los empleados estén capacitados para sus labores
+  thumbnail: assets/img/portfolio/P3.png
+---
+Herramientas personalizadas para hacer seguimiento a los exámenes ocupacionales y garantizar que los empleados estén siempre saludables
 
