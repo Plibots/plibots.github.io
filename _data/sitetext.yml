@@ -77,7 +77,6 @@ en: &DEFAULT_EN
     max-height: 90px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-
       - title: "Colmena"
         url: https://www.fundaciongruposocial.co
         logo: assets/img/clients/C7.png
