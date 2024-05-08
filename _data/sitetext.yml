@@ -12,10 +12,16 @@
 en: &DEFAULT_EN
   header:
     title: 
-    text: "Servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
+    text: 
     button: Empecemos
     buttonlink: "#services"
-
+    
+  about:
+    title: "Nuestra Misión"
+    text: 
+    body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos, para esto ofrecemos servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
+    section: about
+    
   services:
     title: "Servicios"
     text: "Servicios de transformación digital, herramientas de Inteligencia Artificial (IA) y análisis de negocios para mejorar procesos y gestión QHSE"
@@ -91,11 +97,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/colmena logo.png
  
 
-  about:
-    title: "Nuestra Misión"
-    text: 
-    body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos"
-    section: about
+
     
   contact:
     title: "Contáctanos"
