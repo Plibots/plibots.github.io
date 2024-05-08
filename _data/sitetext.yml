@@ -77,25 +77,31 @@ en: &DEFAULT_EN
     max-height: 90px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "Canacol"
-        url: https://canacolenergy.com/es
-        logo: assets/img/clients/cncLogo.png
-      - title: "Nabors"
-        url: https://www.nabors.com
-        logo: assets/img/clients/nabors-logo-F09E3FEBB9-seeklogo.com.png
-      - title: "Syngenta"
-        url: https://www.syngenta.com
-        logo: assets/img/clients/syngenta-logo-black-and-white.png
-      - title: "Hocol"
-        url: https://www.hocol.com.co
-        logo: assets/img/clients/hocol-logo-modified.gif
-      - title: "Seryal"
-        url: https://www.seryalsas.com/
-        logo: assets/img/clients/SeryLogo.png
+
       - title: "Colmena"
         url: https://www.fundaciongruposocial.co
-        logo: assets/img/clients/colmena logo.png
- 
+        logo: assets/img/clients/C7.png
+      - title: "Nabors"
+        url: https://www.nabors.com
+        logo: assets/img/clients/C1.png
+      - title: "Syngenta"
+        url: https://www.syngenta.com
+        logo: assets/img/clients/C2.png
+      - title: "Canacol"
+        url: https://canacolenergy.com/es
+        logo: assets/img/clients/C3.png
+      - title: "Amarilo"
+        url: https://amarilo.com.co/
+        logo: assets/img/clients/C4.png      
+      - title: "Hocol"
+        url: https://www.hocol.com.co
+        logo: assets/img/clients/C5.png
+       - title: "Geopark"
+        url: https://www.geo-park.com/es/
+        logo: assets/img/clients/C6.png       
+       - title: "Seryal"
+        url: https://www.seryalsas.com/
+        logo: assets/img/clients/C8.png
 
 
     
@@ -192,26 +198,33 @@ es: &DEFAULT_ES
     section: clients
     max-height: 90px
     horizontal-scrolling: "yes" #"yes/no"
-    list:
-      - title: "Canacol"
-        url: https://canacolenergy.com/es
-        logo: assets/img/clients/cncLogo.png
-      - title: "Nabors"
-        url: https://www.nabors.com
-        logo: assets/img/clients/nabors-logo-F09E3FEBB9-seeklogo.com.png
-      - title: "Syngenta"
-        url: https://www.syngenta.com
-        logo: assets/img/clients/syngenta-logo-black-and-white.png
-      - title: "Hocol"
-        url: https://www.hocol.com.co
-        logo: assets/img/clients/hocol-logo-modified.gif
-      - title: "Seryal"
-        url: https://www.seryalsas.com/
-        logo: assets/img/clients/SeryLogo.png
+      list:
       - title: "Colmena"
         url: https://www.fundaciongruposocial.co
-        logo: assets/img/clients/colmena logo.png
- 
+        logo: assets/img/clients/C7.png
+      - title: "Nabors"
+        url: https://www.nabors.com
+        logo: assets/img/clients/C1.png
+      - title: "Syngenta"
+        url: https://www.syngenta.com
+        logo: assets/img/clients/C2.png
+      - title: "Canacol"
+        url: https://canacolenergy.com/es
+        logo: assets/img/clients/C3.png
+      - title: "Amarilo"
+        url: https://amarilo.com.co/
+        logo: assets/img/clients/C4.png      
+      - title: "Hocol"
+        url: https://www.hocol.com.co
+        logo: assets/img/clients/C5.png
+       - title: "Geopark"
+        url: https://www.geo-park.com/es/
+        logo: assets/img/clients/C6.png       
+       - title: "Seryal"
+        url: https://www.seryalsas.com/
+        logo: assets/img/clients/C8.png
+
+
 
   about:
     title: "Nuestra Mision"
