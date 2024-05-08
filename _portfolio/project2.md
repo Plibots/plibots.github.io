@@ -1,8 +1,8 @@
 ---
-title: App de Cursos HS
+title: Hallazgos
 subtitle: App personalizada
 image: assets/img/portfolio/P2.png
-alt: App de Cursos HS
+alt: App de Hallazgos
 
 caption:
   title: App de Cursos HS
