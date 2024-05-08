@@ -96,7 +96,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Nuestra Misión"
-    text: ""
+    text: "Servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
     body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos"
     section: about
     
