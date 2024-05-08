@@ -18,19 +18,16 @@ en: &DEFAULT_EN
 
   services:
     title: "Servicios"
-    text: "Servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
+    text: "Servicios de transformación digital, herramientas de Inteligencia Artificial (IA) y análisis de negocios para mejorar procesos y gestión QHSE"
     section: services
     list:
       - title: "Aplicaciones personalizadas"
-        desc: "Desarrollo de plataformas y consultoría d"
-        icon: fas fa-laptop
-      - title: "Desarrollo de aplicaciones y dashboards"
-        desc: "Aplicaciones personalizadas para recolectar, editar y transformar información y dashboards para poder analizar datos de tus procesos"
+        desc: "Desarrollo de plataformas y consultoría de analísis de datos con expertos en digitalización de procesos y QHSE"
         icon: fas fa-laptop
       - title: "Inteligencia artificial y automatización"
-        desc: "Creamos chatbots, automatización de procesos mediante RPA, modelos de inteligencia artifical para detección de objetos y situaciones, entre otros"
+        desc: "Modelos de IA personalizados para detección de objetos y situaciones y automatización de procesos mediante RPA"
         icon: fas fa-robot
-      - title: "Cursos, talleres y análisis de datos"
+      - title: "Capacitación en prácticas digitales"
         desc: "Talleres, cursos y material de entrenamiento personalizado sobre uso de herramientas y mejores prácticas"
         icon: fas fa-book
 
@@ -143,8 +140,8 @@ es: &DEFAULT_ES
     text: "Acompañamos a nuestros clientes en todas las fases del camino hacia una era digital"
     section: services
     list:
-      - title: "Desarrollo de aplicaciones y dashboards"
-        desc: "Aplicaciones personalizadas para recolectar, editar y transformar información y dashboards para poder analizar datos de tus procesos"
+      - title: "Aplicaciones personalizadas"
+        desc: "Desarrollo de plataformas y consultoría de analísis de datos con expertos en digitalización de procesos y QHSE"
         icon: fas fa-laptop
       - title: "Inteligencia artificial y automatización"
         desc: "Creamos chatbots, automatización de procesos mediante RPA, modelos de inteligencia artifical para detección de objetos y situaciones, entre otros"
