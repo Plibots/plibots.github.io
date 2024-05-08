@@ -22,7 +22,7 @@ email      : clientservices@plibots.com #this is also the email contact forms wi
 description: "Plibots Colombia"
 author     : Santiago Pulido
 logo:     #optional, defaults to site title
-  path: assets\img\LogoPB.png
+  path: assets\img\LogoPBColor.png
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
