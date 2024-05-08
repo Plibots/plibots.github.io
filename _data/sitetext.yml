@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: 
-    text: 
+    text: "Servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
     button: Empecemos
     buttonlink: "#services"
 
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Nuestra Misión"
-    text: "Servicios de transformación digital, herramientas de IA y análisis de negocios para mejorar procesos y gestión QHSE"
+    text: 
     body: "Acompañar a nuestros clientes en cada etapa del camino hacia una operación digital, optimizada por IA y guiada por datos"
     section: about
     
