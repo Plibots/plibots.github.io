@@ -1,11 +1,11 @@
 ---
-title: App para la gestión de Salud 
+title: Salud 
 subtitle: App personalizada
 image: assets/img/portfolio/P3.png
 alt: App Salud
 
 caption:
-  title: Salud 
+  title: App para la gestión de Salud 
   subtitle: App personalizada
   thumbnail: assets/img/3. Salud.jpg
 ---
