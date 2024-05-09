@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Casos de uso"
-    text: "Proyectos para todo tipo de situaciones"
+    text: "Proyectos para diferentes procesos, necesidades e industrias"
     section: portfolio
     closebutton: "Cerrar"
 
