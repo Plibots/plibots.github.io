@@ -6,7 +6,7 @@ alt: App Salud
 
 caption:
   title: Salud 
-  subtitle: App personalizada
+  subtitle: App personalizada / SaaS
   thumbnail: assets/img/3. Salud.jpg
 ---
 Herramientas para la gestión de Salud Ocupacional para garantizar que los empleados estén siempre saludables
