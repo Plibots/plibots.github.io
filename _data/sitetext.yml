@@ -188,12 +188,14 @@ es: &DEFAULT_ES
  
     end: "           "
     
+
   clients:
     title: "Nuestros clientes"
+    text: "Hemos apoyado clientes de distintos sectores y con diferentes necesidades"
     section: clients
     max-height: 90px
     horizontal-scrolling: "yes" #"yes/no"
-      list:
+    list:
       - title: "Colmena"
         url: https://www.fundaciongruposocial.co
         logo: assets/img/clients/C7.png
@@ -218,6 +220,8 @@ es: &DEFAULT_ES
       - title: "Seryal"
         url: https://www.seryalsas.com/
         logo: assets/img/clients/C8.png
+
+
 
 
 
