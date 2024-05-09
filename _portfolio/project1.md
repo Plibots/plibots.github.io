@@ -1,7 +1,7 @@
 ---
 title: Capacitaciones
 subtitle: App personalizada
-image: assets/img/1. Capacitaciones_Out.jpg 
+image: assets/img/1.1 EJ_Capacitaciones.png
 alt: App personalizada
 
 caption:
