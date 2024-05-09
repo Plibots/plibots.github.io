@@ -1,7 +1,7 @@
 ---
 title: Modelo IA (Intrusiones a zonas de riesgo)
 subtitle: Software as a Service (RPA + IA)
-image: assets/img/portfolio/P5_1.png
+image: assets/img/5.1 Virgil.png
 alt: Modelo de IA para identificar uso de EPP
 
 caption:
