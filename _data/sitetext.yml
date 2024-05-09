@@ -187,10 +187,6 @@ es: &DEFAULT_ES
         alt: 
  
     end: "           "
-
-
-  
-    
     
   clients:
     title: "Nuestros clientes"
