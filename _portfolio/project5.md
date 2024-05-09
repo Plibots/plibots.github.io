@@ -6,7 +6,7 @@ alt: Modelo de IA para identificar uso de EPP
 
 caption:
   title: Modelo de IA (Buffer Zone) 
-  subtitle: App personalizada + RPA + IA
+  subtitle: SaaS (RPA + IA)
   thumbnail: assets/img/5. BufferZone.jpg
 ---
 Modelos de inteligencia artificial para garantizar correcto uso de EPP y asegurar que los empleados estén protegidos
