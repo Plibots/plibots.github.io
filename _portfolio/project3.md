@@ -1,11 +1,11 @@
 ---
-title: App de exámenes ocupacionales
+title: App de para la gestión de Salud Ocupacional
 subtitle: App personalizada
 image: assets/img/portfolio/P3.png
-alt: App de exámenes ocupacionales
+alt: App Salud
 
 caption:
-  title: App de exámenes ocupacionales
+  title: App para la gestión de Salud Ocupacional 
   subtitle: App personalizada
   thumbnail: assets/img/portfolio/P3.png
 ---
