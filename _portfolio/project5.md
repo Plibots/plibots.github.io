@@ -1,5 +1,5 @@
 ---
-title: Modelo de IA para identificar uso de EPP
+title: Modelo de IA (Buffer Zone)
 subtitle: App personalizada + RPA + IA
 image: assets/img/portfolio/P5_1.png
 alt: Modelo de IA para identificar uso de EPP
