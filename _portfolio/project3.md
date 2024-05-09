@@ -9,5 +9,5 @@ caption:
   subtitle: App personalizada / SaaS
   thumbnail: assets/img/3. Salud.jpg
 ---
-Herramientas para la gestión de Salud Ocupacional para garantizar que los empleados estén siempre saludables, cumpliendo con los lineamientos corporativos y normatividad local 
+Herramienta para la gestión de la Salud Ocupacional permitiendo el seguimiento de la salud de los empleados, garantizando el cumplimiento de los lineamientos corporativos y la normatividad local 
 
