@@ -1,5 +1,5 @@
 ---
-title: App de Hallazgos
+title: Hallazgos
 subtitle: App personalizada
 image: assets/img/portfolio/P3.png
 alt: App de Hallazgos
