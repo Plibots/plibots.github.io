@@ -1,6 +1,6 @@
 ---
-title: MEDEVACS Inteligentes 
-subtitle: App personalizada + RPA
+title: Indicadores 
+subtitle: Tablero de indicadores
 image: assets/img/portfolio/P4_b.png
 alt: MEDEVACS Inteligentes 
 
