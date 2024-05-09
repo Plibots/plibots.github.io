@@ -1,6 +1,6 @@
 ---
-title: Capacitaciones
-subtitle: App personalizada
+title: Módulo Capacitaciones
+subtitle: Software as a Services 
 image: assets/img/1.1 EJ_Capacitaciones.png
 alt: App personalizada
 
