@@ -9,6 +9,6 @@ caption:
   subtitle: App personalizada / SaaS
   thumbnail: assets/img/1. Capacitaciones_Out.jpg 
 ---
-Herramientas para la gestión de capacitaciones 
+Herramienta con múltiples funcionalidades para la gestión de capacitaciones
 
 
