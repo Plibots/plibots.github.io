@@ -1,5 +1,5 @@
 ---
-title: Tablero de Indicadores 
+title: Indicadores del Sistema de Gestión
 subtitle: Tablero de indicadores
 image: assets/img/portfolio/P4_b.png
 alt: MEDEVACS Inteligentes 
