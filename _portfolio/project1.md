@@ -1,6 +1,6 @@
 ---
 title: Módulo Capacitaciones
-subtitle: Software as a Services 
+subtitle: Software as a Service - SaaS 
 image: assets/img/1.1 EJ_Capacitaciones.png
 alt: App personalizada
 
