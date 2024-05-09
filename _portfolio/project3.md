@@ -1,7 +1,7 @@
 ---
 title: App para la gestión de Salud 
 subtitle: App personalizada
-image: assets/img/portfolio/P3.png
+image: assets/img/3.1 Salud_Ejemplo.png
 alt: App Salud
 
 caption:
