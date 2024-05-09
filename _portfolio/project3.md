@@ -1,11 +1,11 @@
 ---
-title: App de para la gestión de Salud Ocupacional
+title: App de para la gestión de Salud 
 subtitle: App personalizada
 image: assets/img/portfolio/P3.png
 alt: App Salud
 
 caption:
-  title: App para la gestión de Salud Ocupacional 
+  title: App para la gestión de Salud 
   subtitle: App personalizada
   thumbnail: assets/img/3. Salud.jpg
 ---
