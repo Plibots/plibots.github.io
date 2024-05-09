@@ -7,7 +7,7 @@ alt: App Salud
 caption:
   title: App para la gestión de Salud Ocupacional 
   subtitle: App personalizada
-  thumbnail: assets/img/portfolio/P3.png
+  thumbnail: assets/img/3. Salud.jpg
 ---
-Herramientas personalizadas para hacer seguimiento a los exámenes ocupacionales y garantizar que los empleados estén siempre saludables
+Herramientas para la gestión de Salud Ocupacional para garantizar que los empleados estén siempre saludables
 
