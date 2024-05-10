@@ -7,6 +7,6 @@ alt: MEDEVACS Inteligentes 
 caption:
   title: Indicadores 
   subtitle: Dashboard (Tableros de control)
-  thumbnail: assets/img/4. Indicadores.jpg
+  thumbnail: assets/img/timeline/4. Indicadores_.jpg
 ---
 Es esencial responder a emergencias con información actualizada y de manera rápida, por esto ayudamos a nuestros clientes a potenciar sus MEDEVACs con herramientas tecnológicas
