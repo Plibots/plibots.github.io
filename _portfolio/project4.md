@@ -1,7 +1,7 @@
 ---
 title: Indicadores del Sistema de Gestión
 subtitle: Dashboard (SaaS o Power BI)
-image: assets/img/portfolio/P4_b.png
+image: assets/img/portfolio/DashboardIndicadores2.png
 alt: MEDEVACS Inteligentes 
 
 caption:
