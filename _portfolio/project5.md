@@ -6,7 +6,7 @@ alt: Modelo de IA para identificar uso de EPP
 
 caption:
   title: Modelo IA (Buffer Zone) 
-  subtitle: SaaS (RPA + IA)
+  subtitle: App personalizada / SaaS + IA
   thumbnail: assets/img/5. BufferZone.jpg
 ---
 Modelos de inteligencia artificial para la detección de intrusiones a zonas de alto riesgo asegurando que las personas estén protegidas
