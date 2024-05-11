@@ -5,7 +5,7 @@ image: assets/img/portfolio/P4_b.png
 alt: MEDEVACS Inteligentes 
 
 caption:
-  title: Indicadores 
+  title: Indicadores SGS
   subtitle: Dashboard (Tableros de control)
   thumbnail: assets/img/timeline/4. Indicadores_.jpg
 ---
