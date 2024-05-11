@@ -1,7 +1,7 @@
 ---
 title: Talleres y cursos
 subtitle: Cursos personalizados
-image: assets/img/portfolio/P6_1.png
+image: assets/img/portfolio/P6_New.png
 alt: Talleres y cursos
 
 caption:
