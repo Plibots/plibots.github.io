@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     
   services:
     title: "Servicios"
-    text: "Servicios de transformación digital, herramientas de Inteligencia Artificial (IA) y análisis de negocios para mejorar procesos y gestión QHSE"
+    text: "Servicios de transformación digital, herramientas de Inteligencia Artificial (IA) y analítica de negocios para mejorar procesos y gestión QHSE"
     section: services
     list:
       - title: "Aplicaciones personalizadas"
