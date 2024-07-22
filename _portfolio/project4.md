@@ -1,11 +1,11 @@
 ---
 title: Indicadores del Sistema de Gestión
-subtitle: Dashboard (SaaS o Power BI)
+subtitle: App personalizada + Dashboard (SaaS o Power Platform)
 image: assets/img/portfolio/DashboardIndicadores2.png
 alt: MEDEVACS Inteligentes 
 
 caption:
-  title: Indicadores SGS
+  title: App personalizada + Dashboard
   subtitle: Dashboard 
   thumbnail: assets/img/timeline/4. Indicadores_.jpg
 ---
