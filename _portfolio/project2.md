@@ -1,5 +1,5 @@
 ---
-title: App Hallazgos
+title: App Hallazgos HSE
 subtitle: App personalizada (SaaS o Power Platform)
 image: assets/img/portfolio/AppHallazgos.png
 alt: App de Hallazgos
