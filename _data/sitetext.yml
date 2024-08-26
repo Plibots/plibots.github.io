@@ -38,7 +38,7 @@ en: &DEFAULT_EN
         icon: fas fa-book
 
   portfolio:
-    title: "Casos de uso"
+    title: "Muestra de proyectos"
     text: "Proyectos para diferentes procesos, necesidades e industrias"
     section: portfolio
     closebutton: "Cerrar"
