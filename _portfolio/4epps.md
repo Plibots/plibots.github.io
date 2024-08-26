@@ -1,12 +1,12 @@
 ---
-title: Talleres y cursos
-subtitle: Cursos personalizados
-image: assets/img/portfolio/P6_New.png
+title:  Gestión de EPPs
+subtitle: App personalizada (SaaS)
+image: assets/img/portfolio/GIFS/4_EPPs.gif
 alt: Talleres y cursos
 
 caption:
-  title: Entrenamientos
-  subtitle: Talleres y Cursos personalizados
+  title: Gestión de EPPs
+  subtitle: App Personalizada
   thumbnail: assets/img/6. Cursos.jpg
 ---
 Enseñamos a los empleados a usar las herramientas y prácticas mas relevantes para optimizar su trabajo y crear valor a partir de datos 
