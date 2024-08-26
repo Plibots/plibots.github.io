@@ -1,12 +1,12 @@
 ---
-title: Modelo IA (Intrusiones a zonas de riesgo)
+title: Vigilancia de Zonas de Riesgo
 subtitle: App personalizada + IA (SaaS)
-image: assets/img/5.1 Virgil.png
+image: assets/img/portfolio/GIFS/6_ZonasDeRiegso.gif
 alt: Modelo de IA para identificar uso de EPP
 
 caption:
-  title: Modelo IA (Buffer Zone) 
+  title: Vigilancia de Zonas de Riesgo
   subtitle: App personalizada + IA
   thumbnail: assets/img/5. BufferZone.jpg
 ---
-Modelos de inteligencia artificial para la detección de intrusiones a zonas de alto riesgo asegurando que las personas estén protegidas
+Mejora la seguridad en las áreas más críticas de tu organización. Este módulo utiliza inteligencia artificial para detectar intrusiones en zonas de alto riesgo, alertando de manera inmediata a los responsables de seguridad. Con un monitoreo continuo y preciso, se garantiza que las áreas sensibles permanezcan seguras, reduciendo el riesgo de accidentes y accesos no autorizados.
