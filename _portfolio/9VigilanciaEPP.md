@@ -1,7 +1,7 @@
 ---
 title: Vigilancia de EPP
 subtitle: App personalizada + IA (SaaS)
-image: aassets/img/portfolio/VigEPPINT.png
+image: assets/img/portfolio/VigEPPINT.png
 alt: Modelo de IA para identificar uso de EPP
 
 caption:
