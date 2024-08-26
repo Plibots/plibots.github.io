@@ -1,5 +1,5 @@
 ---
-title: Módulo Cursos 
+title: Módulo Capacitaciones 
 subtitle: App personalizada  (SaaS o Power Platform) 
 image: assets/img/portfolio/GIFS/1_Gestion de entrenamientos.gif
 alt: App personalizada
