@@ -1,7 +1,7 @@
 ---
 title: Módulo Cursos 
 subtitle: App personalizada  (SaaS o Power Platform) 
-image: assets/img/1.1 EJ_Capacitaciones.png
+image: assets/img/1_Gestion de entrenamientos.mp4
 alt: App personalizada
 
 caption:
