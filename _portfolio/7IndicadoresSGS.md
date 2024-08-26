@@ -1,5 +1,5 @@
 ---
-title: Indicadores del Sistema de Gestión
+title: Módulo SGS
 subtitle: App personalizada + Dashboard (SaaS o Power Platform)
 image: assets/img/portfolio/DashboardIndicadores2.png
 alt: App personalizada + Dashboard (SaaS o Power Platform)
