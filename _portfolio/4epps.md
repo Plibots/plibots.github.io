@@ -1,5 +1,5 @@
 ---
-title:  Gestión de EPPs
+title:  Módulo gestión de EPPs
 subtitle: App personalizada (SaaS o Power Platform)
 image: assets/img/portfolio/GIFS/4_EPPs.gif
 alt: Talleres y cursos
